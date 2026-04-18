@@ -183,7 +183,7 @@ const MuhammadAbdullahSarwar = {
 ```yaml
 📧 Email: mabdullahsarwar3731@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/muhammad-abdullah-sarwar-b727682a8/
-🌐 Portfolio: abcd.vercel.app
+🌐 Portfolio: https://m-abdullah-sarwar.vercel.app/
 📍 Location: Islamabad, Pakistan
 💡 Status: Open to Opportunities
 ⚡ Response: Within 24 hours
